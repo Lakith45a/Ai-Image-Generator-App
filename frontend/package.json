@@ -26,6 +26,8 @@
     "@hcaptcha/react-hcaptcha": "^2.0.2",
     "@hookform/resolvers": "^5.2.2",
     "@marsidev/react-turnstile": "^1.4.2",
+    "@polar-sh/better-auth": "^1.8.1",
+    "@polar-sh/sdk": "^0.43.1",
     "@prisma/client": "^6.6.0",
     "@t3-oss/env-nextjs": "^0.12.0",
     "@wojtekmaj/react-recaptcha-v3": "^0.1.4",
